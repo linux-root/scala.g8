@@ -1,3 +1,5 @@
+package com.w47s0n
+
 $if(useScala2.truthy)$object Main {
   def main(args: Array[String]): Unit = {
     println("Hello world!")
